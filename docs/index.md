@@ -1,6 +1,6 @@
-## Welcome to HINTERLAND
+# Welcome to HINTERLAND
 
-Today is September 28, 2021 4:54pm Tuesday 
+### Today is September 28, 2021 4:54pm Tuesday 
 A temperate day in the Station today. A new route was suggested: the three bridges. To cross the *Golden Gate*, *Richmond*, and the *Bay Bridge*. 
 
 Notes for routing:
