@@ -1,6 +1,14 @@
 ## Welcome to HINTERLAND
 
-Today is September 28, 2021 Tuesday afternoon. It is a temperate day in the East Bay Hills today.
+Today is September 28, 2021 4:54pm Tuesday 
+A temperate day in the Station today. A new route was suggested: the three bridges. To cross the *Golden Gate*, *Richmond*, and the *Bay Bridge*. 
+
+Notes for routing:
+- Time
+- Distance
+- Direction
+
+
 
 <!-- GitHub Pages
 

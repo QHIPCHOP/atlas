@@ -1,2 +1,2 @@
 # atlas
-journal for the creation of a map system
+An online text journal for the creation of a philosophical framework, the *HINTERLAND ATLAS*
