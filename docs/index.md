@@ -1,50 +1,33 @@
-# Welcome to HINTERLAND
+# HINTERLAND REPOSITORY
 
-### Today is September 28, 2021 4:54pm Tuesday 
-A temperate day in the Station today. A new route was suggested: the three bridges. To cross the *Golden Gate*, *Richmond*, and the *Bay Bridge*. 
+Is a web3 narrative currently in development. Here is the current roadmap:
 
-Notes for routing:
-- Time
-- Distance
-- Direction
+## PHASEONE: Develop a Fund (Win Money)
+#### WINTER 2021
+### Digital:
+10,000 tokens collateralized against $10,000 USDC seed money. (Private sale optional) 
+### Analog:
+Speculation Parties (Fights and world events)
 
+### Context:
+Public experiments with speculation and risk management using 'real' money. Studies in practical finance they should teach the kids in school. Namely, probability and stakes.
 
+## Phase Two: Develop Tours (Spend Money)
+#### WINTER 2022
+### Digital:
+Remap a chosen area of California (probably Bay)
 
-<!-- GitHub Pages
+### Analog:
+Hiking Tours
+Driving Tours
 
-You can use the [editor on GitHub](https://github.com/XXFFXXCC/atlas/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Context:
+With the money gathered from PHASEONE, use it to fund labor intensive projects. Find and develop a team of contributors. Details to follow on Instagram/Youtube
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Phase Three: (Show em What You Got)
+#### SPRING 2023
+### Digital:
+NFT's
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XXFFXXCC/atlas/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
- -->
+### Analog:
+Art Opening & Auction
